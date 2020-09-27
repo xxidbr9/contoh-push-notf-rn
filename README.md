@@ -1,7 +1,7 @@
 ### BACA BANG
 
 ##### FRONEND
-jalanin Frontend dlu pake , caranya tinggal masuk folder, trus jalanin
+jalanin Frontend dlu , caranya tinggal masuk folder, trus jalanin
 ```
 npm i / yarn
 ```
