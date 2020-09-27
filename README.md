@@ -8,6 +8,11 @@ npm i / yarn
 
 abis itu keluar ntu browser, scan aja pake apps expo
 nanti bakal dimintai hak akses buat notif, di setujui aja.
+nanti bakal keluar di console kyak gini 
+```
+copy token ini : ExponentPushToken[z9p7OPKISveJHgEJ8Z4V1n]
+```
+
 
 
 ##### BACKEND
